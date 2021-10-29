@@ -1,3 +1,5 @@
+[![javapoet](https://maven-badges.herokuapp.com/maven-central/io.github.jbock-java/javapoet/badge.svg?subject=javapoet)](https://maven-badges.herokuapp.com/maven-central/io.github.jbock-java/javapoet)
+
 JavaPoet
 ========
 
