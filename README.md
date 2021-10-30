@@ -1,5 +1,9 @@
 [![javapoet](https://maven-badges.herokuapp.com/maven-central/io.github.jbock-java/javapoet/badge.svg?subject=javapoet)](https://maven-badges.herokuapp.com/maven-central/io.github.jbock-java/javapoet)
 
+This fork of JavaPoet contains a `module-info.java`.
+It can be used to build modular annotation processors,
+while we're waiting for [issue 856](https://github.com/square/javapoet/issues/856) to be resolved.
+
 JavaPoet
 ========
 
