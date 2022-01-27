@@ -1,6 +1,6 @@
-module com.squareup.javapoet {
+module io.jbock.javapoet {
 
     requires java.compiler;
 
-    exports com.squareup.javapoet;
+    exports io.jbock.javapoet;
 }
